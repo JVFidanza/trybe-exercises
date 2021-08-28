@@ -1,0 +1,23 @@
+{
+  "name": "funcao-segundo-grau",
+  "version": "0.1.0",
+  "description": "Meu primeiro script Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "meu-script": "node index.js"
+  },
+  "keywords": [
+    "Node",
+    "exemplos",
+    "primeiro-projeto"
+  ],
+  "author": "Cristiano Cunha cristiano.raffi@betrybe.com",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}

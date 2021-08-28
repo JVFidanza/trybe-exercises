@@ -1,0 +1,82 @@
+---
+theme: "night"
+transition: "slide"
+title: "Node.js"
+enableMenu: false
+enableSearch: false
+enableChalkboard: false
+---
+
+### Testes de Unidade \o/
+
+![Node](https://miro.medium.com/max/1024/1*Y07KF-_laqG2cJ1Squ0Bag.png)
+
+---
+
+### O que vamos aprender
+
+- **Testes no Node**
+- **Mocha**
+- **Chai**
+- **Sinon**
+- **Usaremos TDD 💚**
+
+---
+
+### O que é o TDD?
+
+![TDD](https://miro.medium.com/max/475/0*DiQd7JoB2X5C_Bng.png)
+
+---
+
+#### O que é o TDD?
+
+![TDD](https://www.xenonstack.com/hs-fs/hubfs/Imported_Blog_Media/test-driven-development-process-cycle-2-1.png?width=606&height=585&name=test-driven-development-process-cycle-2-1.png){width=62%}
+
+---
+
+### Ferramentas
+
+![Ferramentas](https://marcofranssen.nl/images/681b1f62be27d6c8f99eb491c473786a4b716aab.png)
+
+---
+
+### Let's Test!
+
+![Test](https://poster.keepcalmandposters.com/default/6210210_keep_calm_and_lets_test_it.png){width=40%}
+
+---
+
+### Ogranização
+
+![images](./images/Exemplos-Describe.png)
+
+---
+
+### Dubles
+
+![duble](https://stuffzentretenimento.files.wordpress.com/2015/08/mi.gif)
+
+---
+
+#### Rodar algo antes e depois dos testes
+
+![before-after](./images/before-after.png)
+
+---
+
+#### Onde vamos usar isso?
+
+![before-after](./images/before-after-explicacao.png)
+
+---
+
+#### Como o duble trabalha?
+
+![stub](./images/stub.png){width=58%}
+
+---
+
+### Dúvidas?
+
+![alt](https://media3.giphy.com/media/3o6MbudLhIoFwrkTQY/giphy.gif?cid=790b76117789c6161150915091725a365bdeac4e06fd01cd&rid=giphy.gif&ct=g){ width=90% }
